@@ -1,2 +1,5 @@
 # myfirstcode
-This is my first code
+This is my first git repository.
+<br>
+Author - Rishu Parmar
+
